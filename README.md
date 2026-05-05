@@ -85,8 +85,8 @@ java -cp src edu.mit.sms.StudentManagement
 
 ## 🔄 Project Progress & Future Improvements
 
-This project is part of my learning journey in Java and backend development.  
-I will continue improving this project as I progress through my course.
+This project is part of my learning journey in Java and Backend development.  
+I will continue improving this project as I progress through my skills.
 
 ### Planned Enhancements:
 
@@ -95,7 +95,7 @@ I will continue improving this project as I progress through my course.
 - [ ] Connect with MySQL using JDBC
 - [ ] Convert into Spring Boot REST API
 - [ ] Add authentication (login system)
-- [ ] Build a simple UI (optional)
+- [ ] Build a simple UI 
 
 ---
 
