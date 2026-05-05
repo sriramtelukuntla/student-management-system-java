@@ -83,7 +83,29 @@ java -cp src edu.mit.sms.StudentManagement
 
 ---
 
+## 🔄 Project Progress & Future Improvements
+
+This project is part of my learning journey in Java and backend development.  
+I will continue improving this project as I progress through my course.
+
+### Planned Enhancements:
+
+- [ ] Save data permanently (File Writing)
+- [ ] Search student by ID
+- [ ] Connect with MySQL using JDBC
+- [ ] Convert into Spring Boot REST API
+- [ ] Add authentication (login system)
+- [ ] Build a simple UI (optional)
+
+---
+
 ## ⚠️ Limitations
 
 * Data is not saved after program exit
 * University name is fixed ("MIT")
+
+---
+
+## 🙌 Note
+
+This is a learning project and will be continuously updated as I improve my backend development skills.
